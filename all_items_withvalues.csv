@@ -1,0 +1,417 @@
+Adj,Noun,Words,Group,Item,Level,Log_Freq,Log_TP,Length,Adj_Length,Task1,Task2,Correct_Task,Adj_Trigger,Target_Trigger,Task_Trigger
+great,accessory,Two,1,1,Super,3.047664195,-4.529601437,9,5,useful,heavy,1,11,1,21
+red,accessory,Two,1,2,Super,3.047664195,-4.936040989,9,3,blue,wearable,2,11,1,21
+competitive,activity,Two,2,3,Super,4.58383331,-3.360701812,8,11,sport,sleep,1,11,1,21
+serious,activity,Two,2,4,Super,4.58383331,-4.133122186,8,7,joke,work,2,11,1,21
+american,alcohol,Two,3,5,Super,4.247310277,-4.896196279,7,8,Budweiser,Corona,1,11,1,21
+local,alcohol,Two,3,6,Super,4.247310277,-4.537602002,7,5,Brooklyn Lager,Russian Vodka,1,11,1,21
+hungry,animal,Two,4,7,Super,4.418765175,-2.933402918,6,6,eating,sleeping,1,11,1,21
+male,animal,Two,4,8,Super,4.418765175,-3.211079692,6,4,doe,buck,2,11,1,21
+ruined,building,Two,5,9,Super,4.897989768,-2.541891179,8,6,broken,fixed,1,11,1,21
+gothic,building,Two,5,10,Super,4.897989768,-2.162863008,8,6,ornate,simple,1,11,1,21
+black,clothing,Two,6,11,Super,4.125481266,-3.674445342,8,5,warm,cool,1,11,1,21
+purple,clothing,Two,6,12,Super,4.125481266,-3.927422942,8,6,mauve,yellow,1,11,1,21
+blue,container,Two,7,13,Super,3.742017747,-3.911059882,9,4,opaque,transparent,1,11,1,21
+empty,container,Two,7,14,Super,3.742017747,-3.14774148,9,5,storage,transport,1,11,1,21
+female,creature,Two,8,15,Super,3.908324139,-4.312663866,8,6,small,big,1,11,1,21
+male,creature,Two,8,16,Super,3.908324139,-3.927082792,8,4,strong,weak,1,11,1,21
+french,dessert,Two,9,17,Super,3.693902741,-3.619708841,7,6,good,bad,1,11,1,21
+baked,dessert,Two,9,18,Super,3.693902741,-3.329499576,7,5,healthy,unhealthy,2,11,1,21
+devastating,disaster,Two,10,19,Super,4.136752266,-2.986697107,8,11,hurricane sandy,hurricane irene,1,11,1,21
+major,disaster,Two,10,20,Super,4.136752266,-3.064546143,8,5,bad,good,1,11,1,21
+frothy,drink,Two,11,21,Super,4.430300856,-2.704150517,5,6,bubbles,no bubbles,1,11,1,21
+steaming,drink,Two,11,22,Super,4.430300856,-3.019739311,5,8,hot,cold,1,11,1,21
+american,dwelling,Two,12,23,Super,3.178113252,-5.373659633,8,8,home,office,1,11,1,21
+gray,dwelling,Two,12,24,Super,3.178113252,-4.419075024,8,4,gloomy,happy,1,11,1,21
+blue,fabric,Two,13,25,Super,3.94792362,-3.525707753,6,4,sew,cut,1,11,1,21
+soft,fabric,Two,13,26,Super,3.94792362,-2.923511022,6,4,comfortable,itchy,1,11,1,21
+melted,food,Two,14,27,Super,5.011160059,-3.663040215,4,6,hot,cold,1,11,1,21
+local,food,Two,14,28,Super,5.011160059,-2.643305647,4,5,environmentally friendly,pollution,1,11,1,21
+strong,liquor,Two,15,29,Super,3.613207352,-3.554009929,6,6,80 proof,40 proof,1,11,1,21
+blended,liquor,Two,15,30,Super,3.613207352,-3.497344867,6,7,cheap,expensive,1,11,1,21
+wet,material,Two,16,31,Super,4.572371992,-3.449657889,8,3,heavy,light,1,11,1,21
+colorful,material,Two,16,32,Super,4.572371992,-3.504470862,8,8,rainbow,black,1,11,1,21
+dried,meal,Two,17,33,Super,4.143170993,-3.707570176,4,5,crunchy,soft,1,11,1,21
+uncooked,meal,Two,17,34,Super,4.143170993,-2.765668555,4,8,inedible,edible,1,11,1,21
+new,money,Two,18,35,Super,5.252083235,-3.171534097,5,3,crisp,torn,1,11,1,21
+american,money,Two,18,36,Super,5.252083235,-3.291387067,5,8,dollar,euro,1,11,1,21
+elderly,pet,Two,19,37,Super,3.867762025,-4.065168752,3,7,slow,fast,1,11,1,21
+old,pet,Two,19,38,Super,3.867762025,-4.391473966,3,3,sick,healthy,1,11,1,21
+yellow,plant,Two,20,39,Super,4.579383404,-4.110471862,5,6,garden,street,1,11,1,21
+white,plant,Two,20,40,Super,4.579383404,-4.821023053,5,5,decorative,useful,1,11,1,21
+large,reptile,Two,21,41,Super,2.761175813,-4.617650247,7,5,scary,friendly,1,11,1,21
+big,reptile,Two,21,42,Super,2.761175813,-4.591647729,7,3,tall,short,1,11,1,21
+roasted,snack,Two,22,43,Super,3.520876382,-3.576110536,5,7,dark,light,1,11,1,21
+salted,snack,Two,22,44,Super,3.520876382,-2.621176282,5,6,savory,sweet,1,11,1,21
+olympic,sport,Two,23,45,Super,4.412460547,-2.151682611,5,7,competitive,easy,1,11,1,21
+international,sport,Two,23,46,Super,4.412460547,-3.314964073,5,13,global,local,1,11,1,21
+mature,vegetation,Two,24,47,Super,3.57426283,-3.832062687,10,6,bushy,trim,1,11,1,21
+green,vegetation,Two,24,48,Super,3.57426283,-3.433872576,10,5,healthy,sick,1,11,1,21
+black,vehicle,Two,25,49,Super,4.253822439,-4.276544328,7,5,drive,fly,1,11,1,21
+red,vehicle,Two,25,50,Super,4.253822439,-4.090979146,7,3,painted,unpainted,1,11,1,21
+antique,weapon,Two,26,51,Super,4.062469166,-3.686278678,6,7,rusty,clean,1,11,1,21
+loaded,weapon,Two,26,52,Super,4.062469166,-2.647176936,6,6,dangerous,safe,1,11,1,21
+great,bag,Two,1,53,Basic,4.468937806,-4.353510178,3,5,fits a lot,fits a little,1,12,2,22
+red,bag,Two,1,54,Basic,4.468937806,-3.150711154,3,3,colorful,colorless,1,12,2,22
+competitive,game,Two,2,55,Basic,5.028522453,-2.552587051,4,11,professional,amateur,1,12,2,22
+serious,game,Two,2,56,Basic,5.028522453,-3.354924715,4,7,concentration,daydreaming,1,12,2,22
+american,wine,Two,3,57,Basic,4.419922721,-3.554629351,4,8,California,Kentucky,1,12,2,22
+local,wine,Two,3,58,Basic,4.419922721,-3.290097719,4,5,imported,not imported,2,12,2,22
+hungry,bird,Two,4,59,Basic,4.301637583,-3.109494177,4,6,eats,drinks,1,12,2,22
+male,bird,Two,4,60,Basic,4.301637583,-3.67181006,4,4,father,mother,1,12,2,22
+ruined,church,Two,5,61,Basic,4.912317729,-2.775974299,6,6,in use,abandoned,2,12,2,22
+gothic,church,Two,5,62,Basic,4.912317729,-1.861833012,6,6,old,new,1,12,2,22
+black,pants,Two,6,63,Basic,4.116906468,-2.765364795,5,5,stylish,unstylish,1,12,2,22
+purple,pants,Two,6,64,Basic,4.116906468,-2.781293594,5,6,child,adult,1,12,2,22
+blue,bottle,Two,7,65,Basic,4.216878142,-3.251006948,6,4,plastic,wood,1,12,2,22
+empty,bottle,Two,7,66,Basic,4.216878142,-2.121143651,6,5,heavy,light,2,12,2,22
+female,fish,Two,8,67,Basic,4.674741762,-3.613693862,4,6,lays eggs,doesn't lay eggs,1,12,2,22
+male,fish,Two,8,68,Basic,4.674741762,-3.512109444,4,4,shiny,dull,1,12,2,22
+french,pastry,Two,9,69,Basic,3.473340964,-3.204735493,6,6,delicious,flavorless,1,12,2,22
+baked,pastry,Two,9,70,Basic,3.473340964,-2.727439584,6,5,hot,cold,1,12,2,22
+devastating,storm,Two,10,71,Basic,4.323334619,-2.685667112,5,11,dangerous,safe,1,12,2,22
+major,storm,Two,10,72,Basic,4.323334619,-2.845718018,5,5,sad,happy,1,12,2,22
+frothy,coffee,Two,11,73,Basic,4.484000714,-2.403120521,6,6,milk,black,1,12,2,22
+steaming,coffee,Two,11,74,Basic,4.484000714,-1.596493352,6,8,warm,cool,1,12,2,22
+american,house,Two,12,75,Basic,5.384141861,-3.618298431,5,8,florida,spain,1,12,2,22
+gray,house,Two,12,76,Basic,5.384141861,-2.728850565,5,4,chimney,wheel,1,12,2,22
+blue,wool,Two,13,77,Basic,3.656098202,-3.176373078,4,4,socks,shoes,1,12,2,22
+soft,wool,Two,13,78,Basic,3.656098202,-3.186752031,4,4,sweater,scarf,1,12,2,22
+melted,cheese,Two,14,79,Basic,4.28132886,-1.811782626,6,6,greasy,not greasy,1,12,2,22
+local,cheese,Two,14,80,Basic,4.28132886,-4.315403505,6,5,from New York,from France,1,12,2,22
+strong,whiskey,Two,15,81,Basic,2.723455672,-4.377785977,7,6,drunk,sober,1,12,2,22
+blended,whiskey,Two,15,82,Basic,2.723455672,-2.652246437,7,7,fancy,plain,2,12,2,22
+wet,wood,Two,16,83,Basic,4.455423534,-2.636745003,4,3,dark,light,1,12,2,22
+colorful,wood,Two,16,84,Basic,4.455423534,-3.805500858,4,8,pretty,ugly,1,12,2,22
+dried,pasta,Two,17,85,Basic,3.817895757,-2.610660163,5,5,ready,not ready,1,12,2,22
+uncooked,pasta,Two,17,86,Basic,3.817895757,-1.920570515,5,8,boil,fry,1,12,2,22
+new,coin,Two,18,87,Basic,3.543943942,-4.872895202,4,3,shiny,dull,1,12,2,22
+american,coin,Two,18,88,Basic,3.543943942,-4.595166283,4,8,two-sided,three-sided,1,12,2,22
+elderly,dog,Two,19,89,Basic,4.574656202,-3.46310876,3,7,tired,awake,1,12,2,22
+old,dog,Two,19,90,Basic,4.574656202,-2.889694189,3,3,adult,baby,1,12,2,22
+yellow,flower,Two,20,91,Basic,3.945025201,-2.748744026,6,6,vase,plate,1,12,2,22
+white,flower,Two,20,92,Basic,3.945025201,-3.344658878,6,5,smells good,smells bad,1,12,2,22
+large,snake,Two,21,93,Basic,3.789510204,-3.948643466,5,5,predator,prey,1,12,2,22
+big,snake,Two,21,94,Basic,3.789510204,-3.734315233,5,3,eats rabbit,eats mouse,1,12,2,22
+roasted,nut,Two,22,95,Basic,3.475089803,-2.877140859,3,7,brown,white,1,12,2,22
+salted,nut,Two,22,96,Basic,3.475089803,-2.496237545,3,6,flavorful,bland,1,12,2,22
+olympic,race,Two,23,97,Basic,4.725985097,-3.020010492,4,7,difficult,easy,1,12,2,22
+international,race,Two,23,98,Basic,4.725985097,-3.772341269,4,13,professional,amateur,1,12,2,22
+mature,tree,Two,24,99,Basic,4.533606848,-2.655970445,4,6,old,young,1,12,2,22
+green,tree,Two,24,100,Basic,4.533606848,-2.980553854,4,5,leaves,bark,1,12,2,22
+black,car,Two,25,101,Basic,5.029132057,-3.048903985,3,5,shiny,dull,1,12,2,22
+red,car,Two,25,102,Basic,5.029132057,-2.685620993,3,3,sporty,slow,1,12,2,22
+antique,gun,Two,26,103,Basic,4.533098112,-2.908127428,3,7,expensive,cheap,1,12,2,22
+loaded,gun,Two,26,104,Basic,4.533098112,-1.82902059,3,6,bullet,arrow,1,12,2,22
+great,purse,Two,1,105,Sub1,3.788451207,-4.830631433,5,5,to carry,to ride,1,13,3,23
+red,purse,Two,1,106,Sub1,3.788451207,-3.731921006,5,3,common,uncommon,2,13,3,23
+competitive,chess,Two,2,107,Sub1,3.489677292,-3.427648934,5,11,smart,stupid,1,13,3,23
+serious,chess,Two,2,108,Sub1,3.489677292,-4.735182177,5,7,difficult,easy,1,13,3,23
+american,chardonnay,Two,3,109,Sub1,2.915399835,-5.073143291,10,8,white,red,1,13,3,23
+local,chardonnay,Two,3,110,Sub1,2.915399835,-5.014573526,10,5,American,French,1,13,3,23
+hungry,crow,Two,4,111,Sub1,3.587374172,-4.012584164,4,6,happy,sad,2,13,3,23
+male,crow,Two,4,112,Sub1,3.587374172,-4.625251654,4,4,big,small,1,13,3,23
+ruined,cathedral,Two,5,113,Sub1,3.624694531,-2.922102542,9,6,stone,wood,1,13,3,23
+gothic,cathedral,Two,5,114,Sub1,3.624694531,-1.3969462,9,6,stained glass,clear glass,1,13,3,23
+black,jeans,Two,6,115,Sub1,3.977449227,-2.84693246,5,5,long,short,1,13,3,23
+purple,jeans,Two,6,116,Sub1,3.977449227,-3.325362032,5,6,bright,dark,1,13,3,23
+blue,flask,Two,7,117,Sub1,2.883093359,-4.279014256,5,4,alcohol,water,1,13,3,23
+empty,flask,Two,7,118,Sub1,2.883093359,-3.824436005,5,5,thirsty,not thirsty,1,13,3,23
+female,trout,Two,8,119,Sub1,3.738384124,-4.01163387,5,6,legs,fins,2,13,3,23
+male,trout,Two,8,120,Sub1,3.738384124,-4.3250228,5,4,edible,not edible,1,13,3,23
+french,croissant,Two,9,121,Sub1,2.354108439,-4.619708841,9,6,buttery,dry,1,13,3,23
+baked,croissant,Two,9,122,Sub1,2.354108439,-3.630529571,9,5,fresh,old,1,13,3,23
+devastating,hurricane,Two,10,123,Sub1,3.990472054,-2.588757014,9,11,costly,not costly,1,13,3,23
+major,hurricane,Two,10,124,Sub1,3.990472054,-3.22154485,9,5,rain,no rain,1,13,3,23
+frothy,espresso,Two,11,125,Sub1,3.051538391,-2.403120521,8,6,creamy,not creamy,1,13,3,23
+steaming,espresso,Two,11,126,Sub1,3.051538391,-3.019739311,8,8,starbucks,walmart,1,13,3,23
+american,cottage,Two,12,127,Sub1,3.67292869,-5.073143291,7,8,vacation,work,1,13,3,23
+gray,cottage,Two,12,128,Sub1,3.67292869,-4.118045029,7,4,stone,brick,1,13,3,23
+blue,cashmere,Two,13,129,Sub1,3.050766311,-3.610028639,8,4,dye,natural,1,13,3,23
+soft,cashmere,Two,13,130,Sub1,3.050766311,-3.538935384,8,4,expensive,cheap,1,13,3,23
+melted,cheddar,Two,14,131,Sub1,3.073351702,-2.884889631,7,6,soft,hard,1,13,3,23
+local,cheddar,Two,14,132,Sub1,3.073351702,-5.014373509,7,5,far,close,2,13,3,23
+strong,scotch,Two,15,133,Sub1,3.266701967,-4.853871964,6,6,high alcohol,low alcohol,1,13,3,23
+blended,scotch,Two,15,134,Sub1,3.266701967,-3.196314189,6,7,single malt,not single malt,1,13,3,23
+wet,maple,Two,16,135,Sub1,3.593396842,-3.926780367,5,3,rain,sun,1,13,3,23
+colorful,maple,Two,16,136,Sub1,3.593396842,-3.805500858,5,8,purple,brown,2,13,3,23
+dried,spaghetti,Two,17,137,Sub1,3.286905353,-3.105510185,9,5,stiff,supple,1,13,3,23
+uncooked,spaghetti,Two,17,138,Sub1,3.286905353,-1.920570515,9,8,chewy,crunchy,2,13,3,23
+new,penny,Two,18,139,Sub1,3.737192643,-4.749579998,5,3,good condition,bad condition,1,13,3,23
+american,penny,Two,18,140,Sub1,3.737192643,-5.373659633,5,8,lincoln,washington,1,13,3,23
+elderly,poodle,Two,19,141,Sub1,2.764922985,-4.065168752,6,7,arthritic,flexible,1,13,3,23
+old,poodle,Two,19,142,Sub1,2.764922985,-4.692503962,6,3,nimble,clumsy,2,13,3,23
+yellow,daisy,Two,20,143,Sub1,3.327971624,-3.156229353,5,6,pretty,ugly,1,13,3,23
+white,daisy,Two,20,144,Sub1,3.327971624,-4.821023053,5,5,petals,center,1,13,3,23
+large,python,Two,21,145,Sub1,2.814913181,-4.617650247,6,5,ferocious,docile,1,13,3,23
+big,python,Two,21,146,Sub1,2.814913181,-5.290617733,6,3,wide,skinny,1,13,3,23
+roasted,almond,Two,22,147,Sub1,3.189490314,-3.098989827,6,7,raw,cooked,2,13,3,23
+salted,almond,Two,22,148,Sub1,3.189490314,-2.797267541,6,6,shelled,unshelled,1,13,3,23
+olympic,marathon,Two,23,149,Sub1,3.501196242,-2.471196013,8,7,fast,slow,1,13,3,23
+international,marathon,Two,23,150,Sub1,3.501196242,-4.045342541,8,13,travel,stay home,1,13,3,23
+mature,oak,Two,24,151,Sub1,3.985471383,-2.685933598,3,6,large,small,1,13,3,23
+green,oak,Two,24,152,Sub1,3.985471383,-3.717869777,3,5,summer,automn,1,13,3,23
+black,jeep,Two,25,153,Sub1,3.504062883,-3.768349491,4,5,4WD,2WD,1,13,3,23
+red,jeep,Two,25,154,Sub1,3.504062883,-3.430890728,4,3,all terrain,not all terrain,1,13,3,23
+antique,pistol,Two,26,155,Sub1,3.658774321,-3.209157423,6,7,expensive,cheap,1,13,3,23
+loaded,pistol,Two,26,156,Sub1,3.658774321,-2.420780667,6,6,ready,not ready,1,13,3,23
+great,satchel,Two,1,157,Sub2,2.893206753,-5.307752688,7,5,popular,unpopular,1,14,4,24
+red,satchel,Two,1,158,Sub2,2.893206753,-4.635010993,7,3,leather,plastic,1,14,4,24
+competitive,scrabble,Two,2,159,Sub2,2.770115295,-3.72867893,8,11,dictionary,guessing,1,14,4,24
+serious,scrabble,Two,2,160,Sub2,2.770115295,-4.735182177,8,7,smart,stupid,1,14,4,24
+american,merlot,Two,3,161,Sub2,2.625312451,-5.073143291,6,8,red,white,1,14,4,24
+local,merlot,Two,3,162,Sub2,2.625312451,-5.014573526,6,5,traveled far,close,2,14,4,24
+hungry,heron,Two,4,163,Sub2,2.910090546,-4.012584164,5,6,eats fish,eats weeds,1,14,4,24
+male,heron,Two,4,164,Sub2,2.910090546,-4.024108864,5,4,pregnant,not pregnant,2,14,4,24
+ruined,basilica,Two,5,165,Sub2,2.73479983,-3.62107182,8,6,good condition,bad condition,2,14,4,24
+gothic,basilica,Two,5,166,Sub2,2.73479983,-2.941014385,8,6,imposing,diminutive,1,14,4,24
+black,capris,Two,6,167,Sub2,1.73239376,-4.754487332,6,5,summer,winter,1,14,4,24
+purple,capris,Two,6,168,Sub2,1.73239376,-3.927422942,6,6,woman,man,1,14,4,24
+blue,thermos,Two,7,169,Sub2,2.770852012,-4.756961951,7,4,coffee,water,1,14,4,24
+empty,thermos,Two,7,170,Sub2,2.770852012,-3.824436005,7,5,insulated,not insulated,1,14,4,24
+female,guppy,Two,8,171,Sub2,1.707570176,-4.613693862,5,6,brown,rainbow,1,14,4,24
+male,guppy,Two,8,172,Sub2,1.707570176,-4.626052796,5,4,colorful,colorless,1,14,4,24
+french,brioche,Two,9,173,Sub2,2.158362492,-4.619708841,7,6,braided,not braided,1,14,4,24
+baked,brioche,Two,9,174,Sub2,2.158362492,-3.630529571,7,5,hard,soft,2,14,4,24
+devastating,tornado,Two,10,175,Sub2,3.374198258,-3.065878437,7,11,windy,calm,1,14,4,24
+major,tornado,Two,10,176,Sub2,3.374198258,-4.315154638,7,5,topples trees,topples houses,2,14,4,24
+frothy,latte,Two,11,177,Sub2,2.706717782,-2.704150517,5,6,fresh,old,1,14,4,24
+steaming,latte,Two,11,178,Sub2,2.706717782,-3.320769307,5,8,burns tongue,easy to drink,1,14,4,24
+american,bungalow,Two,12,179,Sub2,3.02325246,-5.373659633,8,8,short,tall,1,14,4,24
+gray,bungalow,Two,12,180,Sub2,3.02325246,-3.941927173,8,4,paint,stone,1,14,4,24
+blue,merino,Two,13,181,Sub2,2.187520721,-4.455126679,6,4,cyan,orange,1,14,4,24
+soft,merino,Two,13,182,Sub2,2.187520721,-4.442492798,6,4,dry clean,washing machine,1,14,4,24
+melted,camembert,Two,14,183,Sub2,1.838849091,-3.663040215,9,6,white,yellow,1,14,4,24
+local,camembert,Two,14,184,Sub2,1.838849091,-5.014373509,9,5,exotic,common,2,14,4,24
+strong,bourbon,Two,15,185,Sub2,3.237040791,-4.853871964,7,6,corn,wheat,1,14,4,24
+blended,bourbon,Two,15,186,Sub2,3.237040791,-3.196314189,7,7,Maker's Mark,Jim Beam,2,14,4,24
+wet,balsa,Two,16,187,Sub2,2.217483944,-4.227678293,5,3,burns well,burns slowly,2,14,4,24
+colorful,balsa,Two,16,188,Sub2,2.217483944,-3.805500858,5,8,painted,unpainted,1,14,4,24
+dried,ziti,Two,17,189,Sub2,2.008600172,-4.008600172,4,5,edible,inedible,2,14,4,24
+uncooked,ziti,Two,17,190,Sub2,2.008600172,-2.765668555,4,8,ready to eat,not ready,1,14,4,24
+new,dime,Two,18,191,Sub2,3.381295623,-5.049635146,4,3,silver,gold,1,14,4,24
+american,dime,Two,18,192,Sub2,3.381295623,-5.073143291,4,8,in london,in new york,2,14,4,24
+elderly,dachshund,Two,19,193,Sub2,2.1430148,-4.065168752,9,7,gray-haired,brown-haired,1,14,4,24
+old,dachshund,Two,19,194,Sub2,2.1430148,-5.294136288,9,3,exhausted,energetic,1,14,4,24
+yellow,daffodil,Two,20,195,Sub2,2.181843588,-4.110471862,8,6,bulb,seed,1,14,4,24
+white,daffodil,Two,20,196,Sub2,2.181843588,-5.299296283,8,5,spring,autumn,1,14,4,24
+large,mamba,Two,21,197,Sub2,1.986771734,-5.094771502,5,5,bites,toothless,1,14,4,24
+big,mamba,Two,21,198,Sub2,1.986771734,-5.290617733,5,3,venomous,non-venomous,1,14,4,24
+roasted,cashew,Two,22,199,Sub2,2.29666519,-2.974050954,6,7,sweet,sour,1,14,4,24
+salted,cashew,Two,22,200,Sub2,2.29666519,-2.621176282,6,6,soft,hard,1,14,4,24
+olympic,biathlon,Two,23,201,Sub2,2.117271296,-3.531893853,8,7,snow,rain,1,14,4,24
+international,biathlon,Two,23,202,Sub2,2.117271296,-4.948432528,8,13,countries,cities,1,14,4,24
+mature,spruce,Two,24,203,Sub2,3.20709554,-3.230001958,6,6,tall,short,1,14,4,24
+green,spruce,Two,24,204,Sub2,3.20709554,-4.354577731,6,5,evergreen,perennial,1,14,4,24
+black,limousine,Two,25,205,Sub2,3.13481437,-3.531778249,9,5,fancy,cheap,1,14,4,24
+red,limousine,Two,25,206,Sub2,3.13481437,-3.473642627,9,3,rare,common,1,14,4,24
+antique,musket,Two,26,207,Sub2,2.694605199,-3.686278678,6,7,museum,store,1,14,4,24
+loaded,musket,Two,26,208,Sub2,2.694605199,-3.975431809,6,6,will shoot,won't shoot,1,14,4,24
+bddmhcvsq,accessory,One,1,209,Super,3.047664195,NA,9,9,portable,not portable,1,15,5,25
+mlwtlxmjt,accessory,One,1,210,Super,3.047664195,NA,9,9,necessary,unnecessary,2,15,5,25
+vwvnpfrm,activity,One,2,211,Super,4.58383331,NA,8,8,athletic,sedentary,1,15,5,25
+crwgpgtw,activity,One,2,212,Super,4.58383331,NA,8,8,moving,still,1,15,5,25
+jsksbfh,alcohol,One,3,213,Super,4.247310277,NA,7,7,cup,bowl,1,15,5,25
+qgznhjt,alcohol,One,3,214,Super,4.247310277,NA,7,7,purple,brown,2,15,5,25
+vfpzrd,animal,One,4,215,Super,4.418765175,NA,6,6,natural,man-made,1,15,5,25
+kvqfqw,animal,One,4,216,Super,4.418765175,NA,6,6,breathes,doesn't breathe,1,15,5,25
+vmdkqqtw,building,One,5,217,Super,4.897989768,NA,8,8,shelter,open,1,15,5,25
+qpnrlwlp,building,One,5,218,Super,4.897989768,NA,8,8,brick,cloth,1,15,5,25
+swnvwbvm,clothing,One,6,219,Super,4.125481266,NA,8,8,wear,ride,1,15,5,25
+hknmtmdn,clothing,One,6,220,Super,4.125481266,NA,8,8,dressed,naked,1,15,5,25
+ggwgmqppf,container,One,7,221,Super,3.742017747,NA,9,9,heat,storage,2,15,5,25
+fvkvtfgrh,container,One,7,222,Super,3.742017747,NA,9,9,closed,open,1,15,5,25
+ltlpplpd,creature,One,8,223,Super,3.908324139,NA,8,8,moves,doesn't move,1,15,5,25
+dqkhrsss,creature,One,8,224,Super,3.908324139,NA,8,8,alive,not alive,1,15,5,25
+rxpqchd,dessert,One,9,225,Super,3.693902741,NA,7,7,sweet,savory,1,15,5,25
+spqrwvs,dessert,One,9,226,Super,3.693902741,NA,7,7,healthy,unhealthy,1,15,5,25
+pxzncwhz,disaster,One,10,227,Super,4.136752266,NA,8,8,tragedy,blessing,1,15,5,25
+hnlcxqdz,disaster,One,10,228,Super,4.136752266,NA,8,8,sad,happy,1,15,5,25
+thjjn,drink,One,11,229,Super,4.430300856,NA,5,5,thirsty,hungry,1,15,5,25
+lnwjh,drink,One,11,230,Super,4.430300856,NA,5,5,liquid,solid,1,15,5,25
+lkcqnvcd,dwelling,One,12,231,Super,3.178113252,NA,8,8,indoors,outdoors,1,15,5,25
+tcgxfmsm,dwelling,One,12,232,Super,3.178113252,NA,8,8,comfortable,uncomfortable,1,15,5,25
+dttfhj,fabric,One,13,233,Super,3.94792362,NA,6,6,soft,hard,1,15,5,25
+thdpkv,fabric,One,13,234,Super,3.94792362,NA,6,6,woven,pulped,1,15,5,25
+ndgh,food,One,14,235,Super,5.011160059,NA,4,4,important,unimportant,1,15,5,25
+kdpl,food,One,14,236,Super,5.011160059,NA,4,4,hungry,thirsty,1,15,5,25
+qtjmgz,liquor,One,15,237,Super,3.613207352,NA,6,6,hard,weak,1,15,5,25
+pbmrjn,liquor,One,15,238,Super,3.613207352,NA,6,6,distilled,brewed,1,15,5,25
+tzscfxqm,material,One,16,239,Super,4.572371992,NA,8,8,construction,cleaning,1,15,5,25
+svlmqflb,material,One,16,240,Super,4.572371992,NA,8,8,natural,artificial,2,15,5,25
+cgsp,meal,One,17,241,Super,4.143170993,NA,4,4,table,floor,1,15,5,25
+bxcn,meal,One,17,242,Super,4.143170993,NA,4,4,noon,midnight,1,15,5,25
+hvvls,money,One,18,243,Super,5.252083235,NA,5,5,necessary,unnecessary,1,15,5,25
+xdvfn,money,One,18,244,Super,5.252083235,NA,5,5,bank,pharmacy,1,15,5,25
+fcx,pet,One,19,245,Super,3.867762025,NA,3,3,domestic,wild,1,15,5,25
+tgs,pet,One,19,246,Super,3.867762025,NA,3,3,cuddly,not cuddly,1,15,5,25
+bhgjq,plant,One,20,247,Super,4.579383404,NA,5,5,garden,kitchen,1,15,5,25
+rqnwh,plant,One,20,248,Super,4.579383404,NA,5,5,soil,sand,1,15,5,25
+mpbkswn,reptile,One,21,249,Super,2.761175813,NA,7,7,scales,fur,1,15,5,25
+qsrttzh,reptile,One,21,250,Super,2.761175813,NA,7,7,warm-blooded,cold-blooded,2,15,5,25
+gkrjg,snack,One,22,251,Super,3.520876382,NA,5,5,hungry,full,1,15,5,25
+fbxtr,snack,One,22,252,Super,3.520876382,NA,5,5,meal,between meals,2,15,5,25
+zftjd,sport,One,23,253,Super,4.412460547,NA,5,5,sweaty,clean,1,15,5,25
+lpvsg,sport,One,23,254,Super,4.412460547,NA,5,5,active,inactive,1,15,5,25
+mllkjtsflp,vegetation,One,24,255,Super,3.57426283,NA,10,10,nature,city,1,15,5,25
+cfnsmvvglc,vegetation,One,24,256,Super,3.57426283,NA,10,10,forest,desert,1,15,5,25
+vlqwqzv,vehicle,One,25,257,Super,4.253822439,NA,7,7,transport,staying still,1,15,5,25
+dcmqpcj,vehicle,One,25,258,Super,4.253822439,NA,7,7,motor,no motor,1,15,5,25
+xqczbm,weapon,One,26,259,Super,4.062469166,NA,6,6,friend,foe,2,15,5,25
+bxdhxg,weapon,One,26,260,Super,4.062469166,NA,6,6,hunting,running,1,15,5,25
+bddmhcvsq,bag,One,1,261,Basic,4.468937806,NA,3,9,carry,wear,1,16,6,26
+mlwtlxmjt,bag,One,1,262,Basic,4.468937806,NA,3,9,shopping,cooking,1,16,6,26
+vwvnpfrm,game,One,2,263,Basic,5.028522453,NA,4,8,play,work,1,16,6,26
+crwgpgtw,game,One,2,264,Basic,5.028522453,NA,4,8,fun,boring,1,16,6,26
+jsksbfh,wine,One,3,265,Basic,4.419922721,NA,4,7,drink,eat,1,16,6,26
+qgznhjt,wine,One,3,266,Basic,4.419922721,NA,4,7,glass,mug,1,16,6,26
+vfpzrd,bird,One,4,267,Basic,4.301637583,NA,4,6,flies,walks,1,16,6,26
+kvqfqw,bird,One,4,268,Basic,4.301637583,NA,4,6,nest,burrow,1,16,6,26
+vmdkqqtw,church,One,5,269,Basic,4.912317729,NA,6,8,religion,business,1,16,6,26
+qpnrlwlp,church,One,5,270,Basic,4.912317729,NA,6,8,catholic,jewish,1,16,6,26
+swnvwbvm,pants,One,6,271,Basic,4.116906468,NA,5,8,long,short,1,16,6,26
+hknmtmdn,pants,One,6,272,Basic,4.116906468,NA,5,8,denim,cardboard,1,16,6,26
+ggwgmqppf,bottle,One,7,273,Basic,4.216878142,NA,6,9,round,rectangular,1,16,6,26
+fvkvtfgrh,bottle,One,7,274,Basic,4.216878142,NA,6,9,baby,child,1,16,6,26
+ltlpplpd,fish,One,8,275,Basic,4.674741762,NA,4,8,water,land,1,16,6,26
+dqkhrsss,fish,One,8,276,Basic,4.674741762,NA,4,8,swim,run,1,16,6,26
+rxpqchd,pastry,One,9,277,Basic,3.473340964,NA,6,7,butter,oil,1,16,6,26
+spqrwvs,pastry,One,9,278,Basic,3.473340964,NA,6,7,bakery,restaurant,1,16,6,26
+pxzncwhz,storm,One,10,279,Basic,4.323334619,NA,5,8,lightning,sun,1,16,6,26
+hnlcxqdz,storm,One,10,280,Basic,4.323334619,NA,5,8,cloudy sky,blue sky,1,16,6,26
+thjjn,coffee,One,11,281,Basic,4.484000714,NA,6,5,black,blue,1,16,6,26
+lnwjh,coffee,One,11,282,Basic,4.484000714,NA,6,5,caffeine,alcohol,1,16,6,26
+lkcqnvcd,house,One,12,283,Basic,5.384141861,NA,5,8,suburbs,downtown,1,16,6,26
+tcgxfmsm,house,One,12,284,Basic,5.384141861,NA,5,8,one room,multiple rooms,2,16,6,26
+dttfhj,wool,One,13,285,Basic,3.656098202,NA,4,6,knit,draw,1,16,6,26
+thdpkv,wool,One,13,286,Basic,3.656098202,NA,4,6,natural,artificial,1,16,6,26
+ndgh,cheese,One,14,287,Basic,4.28132886,NA,6,4,yellow,brown,1,16,6,26
+kdpl,cheese,One,14,288,Basic,4.28132886,NA,6,4,dairy,meat,1,16,6,26
+qtjmgz,whiskey,One,15,289,Basic,2.723455672,NA,7,6,Jameson,PBR,1,16,6,26
+pbmrjn,whiskey,One,15,290,Basic,2.723455672,NA,7,6,gold,red,1,16,6,26
+tzscfxqm,wood,One,16,291,Basic,4.455423534,NA,4,8,burns,melts,1,16,6,26
+svlmqflb,wood,One,16,292,Basic,4.455423534,NA,4,8,tree,flower,1,16,6,26
+cgsp,pasta,One,17,293,Basic,3.817895757,NA,5,4,wheat,rye,1,16,6,26
+bxcn,pasta,One,17,294,Basic,3.817895757,NA,5,4,boil,fry,1,16,6,26
+hvvls,coin,One,18,295,Basic,3.543943942,NA,4,5,paper,metal,2,16,6,26
+xdvfn,coin,One,18,296,Basic,3.543943942,NA,4,5,round,square,1,16,6,26
+fcx,dog,One,19,297,Basic,4.574656202,NA,3,3,friendly,unfriendly,1,16,6,26
+tgs,dog,One,19,298,Basic,4.574656202,NA,3,3,fluffy,slimy,1,16,6,26
+bhgjq,flower,One,20,299,Basic,3.945025201,NA,6,5,petals,leaves,1,16,6,26
+rqnwh,flower,One,20,300,Basic,3.945025201,NA,6,5,bee,ant,1,16,6,26
+mpbkswn,snake,One,21,301,Basic,3.789510204,NA,5,7,teeth,hands,1,16,6,26
+qsrttzh,snake,One,21,302,Basic,3.789510204,NA,5,7,slither,crawl,1,16,6,26
+gkrjg,nut,One,22,303,Basic,3.475089803,NA,3,5,shell,skin,1,16,6,26
+fbxtr,nut,One,22,304,Basic,3.475089803,NA,3,5,crack,crush,1,16,6,26
+zftjd,race,One,23,305,Basic,4.725985097,NA,4,5,feet,hands,1,16,6,26
+lpvsg,race,One,23,306,Basic,4.725985097,NA,4,5,speed,strength,1,16,6,26
+mllkjtsflp,tree,One,24,307,Basic,4.533606848,NA,4,10,bark,fur,1,16,6,26
+cfnsmvvglc,tree,One,24,308,Basic,4.533606848,NA,4,10,climb,dig,1,16,6,26
+vlqwqzv,car,One,25,309,Basic,5.029132057,NA,3,7,drive,sail,1,16,6,26
+dcmqpcj,car,One,25,310,Basic,5.029132057,NA,3,7,5 passengers,20 passengers,1,16,6,26
+xqczbm,gun,One,26,311,Basic,4.533098112,NA,3,6,plastic,metal,1,16,6,26
+bxdhxg,gun,One,26,312,Basic,4.533098112,NA,3,6,shoot,swing,1,16,6,26
+bddmhcvsq,purse,One,1,313,Sub1,3.788451207,NA,5,9,money,brick,1,17,7,27
+mlwtlxmjt,purse,One,1,314,Sub1,3.788451207,NA,5,9,shoulder,waist,1,17,7,27
+vwvnpfrm,chess,One,2,315,Sub1,3.489677292,NA,5,8,bishop,jack,1,17,7,27
+crwgpgtw,chess,One,2,316,Sub1,3.489677292,NA,5,8,checkmate,goal,1,17,7,27
+jsksbfh,chardonnay,One,3,317,Sub1,2.915399835,NA,10,7,grape,apple,1,17,7,27
+qgznhjt,chardonnay,One,3,318,Sub1,2.915399835,NA,10,7,vine,bush,1,17,7,27
+vfpzrd,crow,One,4,319,Sub1,3.587374172,NA,4,6,black,white,1,17,7,27
+kvqfqw,crow,One,4,320,Sub1,3.587374172,NA,4,6,vegetarian,omnivore,2,17,7,27
+vmdkqqtw,cathedral,One,5,321,Sub1,3.624694531,NA,9,8,big,small,1,17,7,27
+qpnrlwlp,cathedral,One,5,322,Sub1,3.624694531,NA,9,8,bishop,priest,1,17,7,27
+swnvwbvm,jeans,One,6,323,Sub1,3.977449227,NA,5,8,pocket,pouch,1,17,7,27
+hknmtmdn,jeans,One,6,324,Sub1,3.977449227,NA,5,8,two legs,one leg,1,17,7,27
+ggwgmqppf,flask,One,7,325,Sub1,2.883093359,NA,5,9,alcohol,juice,1,17,7,27
+fvkvtfgrh,flask,One,7,326,Sub1,2.883093359,NA,5,9,flat,round,1,17,7,27
+ltlpplpd,trout,One,8,327,Sub1,3.738384124,NA,5,8,lake,ocean,1,17,7,27
+dqkhrsss,trout,One,8,328,Sub1,3.738384124,NA,5,8,gills,lungs,1,17,7,27
+rxpqchd,croissant,One,9,329,Sub1,2.354108439,NA,9,7,flaky,chewy,1,17,7,27
+spqrwvs,croissant,One,9,330,Sub1,2.354108439,NA,9,7,crescent,circle,1,17,7,27
+pxzncwhz,hurricane,One,10,331,Sub1,3.990472054,NA,9,8,eye,nose,1,17,7,27
+hnlcxqdz,hurricane,One,10,332,Sub1,3.990472054,NA,9,8,flood,drought,1,17,7,27
+thjjn,espresso,One,11,333,Sub1,3.051538391,NA,8,5,italian,american,1,17,7,27
+lnwjh,espresso,One,11,334,Sub1,3.051538391,NA,8,5,dark,light,1,17,7,27
+lkcqnvcd,cottage,One,12,335,Sub1,3.67292869,NA,7,8,gingerbread,cake,1,17,7,27
+tcgxfmsm,cottage,One,12,336,Sub1,3.67292869,NA,7,8,thatched,tiled,1,17,7,27
+dttfhj,cashmere,One,13,337,Sub1,3.050766311,NA,8,6,goat,sheep,1,17,7,27
+thdpkv,cashmere,One,13,338,Sub1,3.050766311,NA,8,6,warm,not warm,1,17,7,27
+ndgh,cheddar,One,14,339,Sub1,3.073351702,NA,7,4,hard,soft,1,17,7,27
+kdpl,cheddar,One,14,340,Sub1,3.073351702,NA,7,4,Wisconsin,Tennessee,1,17,7,27
+qtjmgz,scotch,One,15,341,Sub1,3.266701967,NA,6,6,Scotland,Ireland,1,17,7,27
+pbmrjn,scotch,One,15,342,Sub1,3.266701967,NA,6,6,sip,gulp,1,17,7,27
+tzscfxqm,maple,One,16,343,Sub1,3.593396842,NA,5,8,Canada,California,1,17,7,27
+svlmqflb,maple,One,16,344,Sub1,3.593396842,NA,5,8,syrup,juice,1,17,7,27
+cgsp,spaghetti,One,17,345,Sub1,3.286905353,NA,9,4,meatballs,tofu,1,17,7,27
+bxcn,spaghetti,One,17,346,Sub1,3.286905353,NA,9,4,long,short,1,17,7,27
+hvvls,penny,One,18,347,Sub1,3.737192643,NA,5,5,copper,silver,1,17,7,27
+xdvfn,penny,One,18,348,Sub1,3.737192643,NA,5,5,small,big,1,17,7,27
+fcx,poodle,One,19,349,Sub1,2.764922985,NA,6,3,curly hair,straight hair,1,17,7,27
+tgs,poodle,One,19,350,Sub1,2.764922985,NA,6,3,white,brown,1,17,7,27
+bhgjq,daisy,One,20,351,Sub1,3.327971624,NA,5,5,pick,cut,1,17,7,27
+rqnwh,daisy,One,20,352,Sub1,3.327971624,NA,5,5,earth,sky,1,17,7,27
+mpbkswn,python,One,21,353,Sub1,2.814913181,NA,6,7,venomous,non-venomous,2,17,7,27
+qsrttzh,python,One,21,354,Sub1,2.814913181,NA,6,7,constricting,non-constricting,1,17,7,27
+gkrjg,almond,One,22,355,Sub1,3.189490314,NA,6,5,milk,juice,1,17,7,27
+fbxtr,almond,One,22,356,Sub1,3.189490314,NA,6,5,marzipan,chocolate,1,17,7,27
+zftjd,marathon,One,23,357,Sub1,3.501196242,NA,8,5,long,short,1,17,7,27
+lpvsg,marathon,One,23,358,Sub1,3.501196242,NA,8,5,tiring,not tiring,1,17,7,27
+mllkjtsflp,oak,One,24,359,Sub1,3.985471383,NA,3,10,acorn,chestnut,1,17,7,27
+cfnsmvvglc,oak,One,24,360,Sub1,3.985471383,NA,3,10,curvy leaf,straight leaf,1,17,7,27
+vlqwqzv,jeep,One,25,361,Sub1,3.504062883,NA,4,7,big tires,small tires,1,17,7,27
+dcmqpcj,jeep,One,25,362,Sub1,3.504062883,NA,4,7,open back,closed back,1,17,7,27
+xqczbm,pistol,One,26,363,Sub1,3.658774321,NA,6,6,trigger,button,1,17,7,27
+bxdhxg,pistol,One,26,364,Sub1,3.658774321,NA,6,6,holster,scabbard,1,17,7,27
+bddmhcvsq,satchel,One,1,365,Sub2,2.893206753,NA,7,9,books,toys,1,18,8,28
+mlwtlxmjt,satchel,One,1,366,Sub2,2.893206753,NA,7,9,strap,belt,1,18,8,28
+vwvnpfrm,scrabble,One,2,367,Sub2,2.770115295,NA,8,8,board,mat,1,18,8,28
+crwgpgtw,scrabble,One,2,368,Sub2,2.770115295,NA,8,8,letters,numbers,1,18,8,28
+jsksbfh,merlot,One,3,369,Sub2,2.625312451,NA,6,7,decanter,pitcher,1,18,8,28
+qgznhjt,merlot,One,3,370,Sub2,2.625312451,NA,6,7,smooth,acidic,1,18,8,28
+vfpzrd,heron,One,4,371,Sub2,2.910090546,NA,5,6,long beak,short beak,1,18,8,28
+kvqfqw,heron,One,4,372,Sub2,2.910090546,NA,5,6,wings,arms,1,18,8,28
+vmdkqqtw,basilica,One,5,373,Sub2,2.73479983,NA,8,8,holy,unholy,1,18,8,28
+qpnrlwlp,basilica,One,5,374,Sub2,2.73479983,NA,8,8,Europe,Antarctica,1,18,8,28
+swnvwbvm,capris,One,6,375,Sub2,1.73239376,NA,6,8,summer,winter,1,18,8,28
+hknmtmdn,capris,One,6,376,Sub2,1.73239376,NA,6,8,ankle,calf,2,18,8,28
+ggwgmqppf,thermos,One,7,377,Sub2,2.770852012,NA,7,9,lid,no lid,1,18,8,28
+fvkvtfgrh,thermos,One,7,378,Sub2,2.770852012,NA,7,9,metal,paper,1,18,8,28
+ltlpplpd,guppy,One,8,379,Sub2,1.707570176,NA,5,8,slimy,dry,1,18,8,28
+dqkhrsss,guppy,One,8,380,Sub2,1.707570176,NA,5,8,small,big,1,18,8,28
+rxpqchd,brioche,One,9,381,Sub2,2.158362492,NA,7,7,bread,cream,1,18,8,28
+spqrwvs,brioche,One,9,382,Sub2,2.158362492,NA,7,7,fluffy,dense,1,18,8,28
+pxzncwhz,tornado,One,10,383,Sub2,3.374198258,NA,7,8,midwest,coast,1,18,8,28
+hnlcxqdz,tornado,One,10,384,Sub2,3.374198258,NA,7,8,vortex,hole,1,18,8,28
+thjjn,latte,One,11,385,Sub2,2.706717782,NA,5,5,barista,bartender,1,18,8,28
+lnwjh,latte,One,11,386,Sub2,2.706717782,NA,5,5,milk,water,1,18,8,28
+lkcqnvcd,bungalow,One,12,387,Sub2,3.02325246,NA,8,8,small,big,1,18,8,28
+tcgxfmsm,bungalow,One,12,388,Sub2,3.02325246,NA,8,8,colonial,european,1,18,8,28
+dttfhj,merino,One,13,389,Sub2,2.187520721,NA,6,6,breathable,constricting,1,18,8,28
+thdpkv,merino,One,13,390,Sub2,2.187520721,NA,6,6,sheep,cow,1,18,8,28
+ndgh,camembert,One,14,391,Sub2,1.838849091,NA,9,4,creamy,watery,1,18,8,28
+kdpl,camembert,One,14,392,Sub2,1.838849091,NA,9,4,French,German,1,18,8,28
+qtjmgz,bourbon,One,15,393,Sub2,3.237040791,NA,7,6,Kentucky,Maine,1,18,8,28
+pbmrjn,bourbon,One,15,394,Sub2,3.237040791,NA,7,6,mixed,straight,2,18,8,28
+tzscfxqm,balsa,One,16,395,Sub2,2.217483944,NA,5,8,pliable,firm,1,18,8,28
+svlmqflb,balsa,One,16,396,Sub2,2.217483944,NA,5,8,heavy,light,2,18,8,28
+cgsp,ziti,One,17,397,Sub2,2.008600172,NA,4,4,baked,fried,1,18,8,28
+bxcn,ziti,One,17,398,Sub2,2.008600172,NA,4,4,smooth,ridges,1,18,8,28
+hvvls,dime,One,18,399,Sub2,3.381295623,NA,4,5,10,5,1,18,8,28
+xdvfn,dime,One,18,400,Sub2,3.381295623,NA,4,5,thin,thick,1,18,8,28
+fcx,dachshund,One,19,401,Sub2,2.1430148,NA,9,3,long body,short body,1,18,8,28
+tgs,dachshund,One,19,402,Sub2,2.1430148,NA,9,3,short,tall,1,18,8,28
+bhgjq,daffodil,One,20,403,Sub2,2.181843588,NA,8,5,fragrant,odorless,1,18,8,28
+rqnwh,daffodil,One,20,404,Sub2,2.181843588,NA,8,5,pollen,dust,1,18,8,28
+mpbkswn,mamba,One,21,405,Sub2,1.986771734,NA,5,7,black,brown,1,18,8,28
+qsrttzh,mamba,One,21,406,Sub2,1.986771734,NA,5,7,dangerous,safe,1,18,8,28
+gkrjg,cashew,One,22,407,Sub2,2.29666519,NA,6,5,kidney-shaped,heart-shaped,1,18,8,28
+fbxtr,cashew,One,22,408,Sub2,2.29666519,NA,6,5,nutritious,unhealthy,1,18,8,28
+zftjd,biathlon,One,23,409,Sub2,2.117271296,NA,8,5,rifle,bow,1,18,8,28
+lpvsg,biathlon,One,23,410,Sub2,2.117271296,NA,8,5,ski,canoe,1,18,8,28
+mllkjtsflp,spruce,One,24,411,Sub2,3.20709554,NA,6,10,needle,leaf,1,18,8,28
+cfnsmvvglc,spruce,One,24,412,Sub2,3.20709554,NA,6,10,evergreen,deciduous,1,18,8,28
+vlqwqzv,limousine,One,25,413,Sub2,3.13481437,NA,9,7,chauffered,self-drive,1,18,8,28
+dcmqpcj,limousine,One,25,414,Sub2,3.13481437,NA,9,7,long,short,1,18,8,28
+xqczbm,musket,One,26,415,Sub2,2.694605199,NA,6,6,long ,short,1,18,8,28
+bxdhxg,musket,One,26,416,Sub2,2.694605199,NA,6,6,old,new,1,18,8,28
