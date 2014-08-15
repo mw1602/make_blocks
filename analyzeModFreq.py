@@ -16,10 +16,22 @@ else:
 
 all_bigrams = pd.read_csv(filepath + 'bigrams_finalnouns.csv')
 
+
 # gonna use pandas groupby and multiindexing to figure out how they work, yay! 
 
-# let's create a multindex to reflect our hierarchically organized data, using the relevant columns
+#first let's group by word and condition (across two levels)
 
-all_bigrams.set_index(['Level', 'Words'], inplace = True)
+grouped = all_bigrams.groupby(['Level', 'Words', 'Noun'])
+# grouped['count'] = grouped['Occ'].count()
+new_df =  grouped.aggregate({'Occ': np.sum, 'LogFreq': np.mean} )
+new_df['count'] = grouped['Occ'].count()
 
-print all_bigrams.head() # woo so cool it works!
+# new_df['MP'] = grouped.apply(lambda x: new_df['Occ'] / new_df['LogFreq'])
+new_df['MP'] = new_df['Occ'] / new_df['LogFreq'].apply(lambda x: np.power(10,x))
+print new_df[['Occ', 'MP','count']]
+# print grouped['Occ'].count()
+
+
+
+
+
